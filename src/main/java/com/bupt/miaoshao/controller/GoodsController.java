@@ -18,6 +18,7 @@ public class GoodsController {
 
         model.addAttribute("user", mUserInfo);
         model.addAttribute("user", mUserInfo);
+        model.addAttribute("user", mUserInfo);
 
         return "goods";
     }
