@@ -8,6 +8,7 @@ public class MiaoshaoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MiaoshaoApplication.class, args);
+        System.out.println("has done")
 	}
 
 }
