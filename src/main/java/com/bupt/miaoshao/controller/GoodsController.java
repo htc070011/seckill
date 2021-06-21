@@ -17,6 +17,7 @@ public class GoodsController {
     public String checkGoods(Model model, MUserInfo mUserInfo) {
 
         model.addAttribute("user", mUserInfo);
+        model.addAttribute("user", mUserInfo);
 
 
 
